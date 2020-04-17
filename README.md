@@ -1,4 +1,4 @@
 # Tic Tac Toe
 
-[tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+Built using HTML, CSS, and JavaScript while following this [tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
 www.theodinproject.com
